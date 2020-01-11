@@ -1,4 +1,4 @@
-name: Hostloc
+name: Hostloc_c
 
 on: 
   push:
